@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen">
       <Head>
-        <title>Binary Bodi</title>
+        <title>Melodi</title>
         <link rel="icon" href="/images/fab.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/fav144.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/fav144.ico" />
@@ -77,7 +77,7 @@ export default function Home() {
           </p>
         </div>
         <div id="traits" className="flex flex-wrap justify-around ">
-          <div className=" p-4"><img src="images/melodi.jpeg" alt="" width="300px" className="feature-image" layout="responsive" objectFit="contain" /></div>
+          <div className=" p-4"><img src="images/" alt="" width="300px" className="feature-image" layout="responsive" objectFit="contain" /></div>
 
         
         </div>
@@ -90,14 +90,14 @@ cxx
           </p>
           <div id="traits" className="flex flex-wrap justify-around  w-full 	mx-6 py-6">
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
-              <img className="lg:w-1/2 w-3/4" img src="images/melodi.jpeg" alt="" width="780px" className="feature-image" layout="responsive" objectFit="contain" />
+              <img className="lg:w-1/2 w-3/4" img src="images/" alt="" width="780px" className="feature-image" layout="responsive" objectFit="contain" />
             </div>
             <p className="text-2xl text-white justify-around items-center Poppitandfinch">   xxx
             </p>
           </div>
           <br></br>
           <div className="flex items-center justify-between w-full border-b-2	pb-6">
-            <a href="/home" className=""><img src="images/melodi.jpeg" width="70" alt="" className="logo-image" /></a><span></span>
+            <a href="/home" className=""><img src="images/" width="70" alt="" className="logo-image" /></a><span></span>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
               <a href="/home" className="text-2xl Poppitandfinchsans text-white hover:text-black m-6">Home</a>
          
