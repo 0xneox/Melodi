@@ -34,26 +34,42 @@ export default function Home() {
       <div className="md:w-1/2 w-3/4 " id="about">
         <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
 
-          <h1 className="text-5xl montserrat text-blau">Who TF is Behind Melodi? 🕵️‍♂️💎🙌</h1>
+          <h1 className="text-5xl montserrat text-blau">Who TF is Behind Melodi?🕵️‍♂️</h1>
           <p className="text-2xl text-white my-6  Poppitandfinch">Sup, fellow degens! 👋 Welcome to the Melodi metaverse, where politics meets memes in the wildest crossover event since Ethereum went PoS.
 We're just a bunch of based anons who got tired of watching the normies scroll through boring political news. So we decided to ape into the Melodi phenomenon and create this decentralized meme hub. 🚀
   </p>
           <p className="text-2xl text-white my-6  Poppitandfinch"> We're just a bunch of based anons who got tired of watching the normies scroll through boring political news. So we decided to ape into the Melodi phenomenon and create this decentralized meme hub. 🚀
           .</p>   </div>
 
-        <img className="img feature-image" src="images/melodi.jpeg" alt="" />
+        <img className="img feature-image" src="images/melodi.jpeg" alt="" width="300px"/>
 
 
         <p className="text-2xl text-white my-6  Poppitandfinch">
 
-          <br></br>  We're building this community on the blockchain of laughter, with each meme an NFT of pure joy. No rugs here, just 100% organic, free-range Melodi content.
-Why Melodi? Because in a world of FUD and FOMO, sometimes you just need to sit back and enjoy the absurdity of it all. We're basically the DeFi of political humor – high risk, high reward, and totally addictive.
-Join our discord server "Melodi Maxis" to earn $LMAO tokens and participate in our weekly meme farming yields. Remember, 1 DANK MEME = 1 DANK MEME.
+          <br></br>  We're building this community on the blockchain of laughter, with each meme an NFT of pure joy. 
+          No rugs here, just 100% organic, free-range Melodi content.
+ 
+Join our telegram "Melodi Maxis" to earn $MELODI tokens and participate in our weekly meme farming yields.
+ Remember, .
 WAGMI, but only if we keep the memes flowing and the vibes high. So strap in, anon. It's gonna be a wild ride to meme singularity! 🎢💫
-Disclaimer: This is not financial advice. We're not licensed memologists. Please meme responsibly.
+
 
          </p>
       </div>
+      <div id="traits" className="flex flex-wrap justify-around ">
+          <div className=" p-4"></div>
+          <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
+            <p className="text-blau Montserrat-Light text-2xl">Why Melodi? 🤔</p>
+            <p className="text-2xl text-white  items-center justify-between  Poppitandfinch">Because in a world of FUD and FOMO, sometimes you just need to sit back and enjoy the absurdity of it all. 
+            We're basically the DeFi of political humor – high risk, high reward, and totally addictive.
+            </p><br></br>
+            <p className="text-blau Montserrat-Light text-2xl">1 MELODI = 1 MELODI 🌊</p>
+            <p className="text-2xl text-white items-center justify-between Poppitandfinch">Disclaimer: This is not financial advice. We're not licensed memologists. Please meme responsibly.
+
+            </p>
+
+          </div>
+        </div>
       <div className="md:w-2/3 w-4/5 " id="about">
         <div className="flex items-center justify-between w-full border-b-2	pb-6">
           <a href="/home" className=""><img src="images/melodi.jpeg" width="70" alt="" className="logo-image" /></a><span></span>
